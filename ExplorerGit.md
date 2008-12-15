@@ -54,4 +54,4 @@ I don’t fully understand it yet, but I’m hooked.
 > "Hello World" is just the beginning.
 
 ---
-*Written on my first day exploring GitHub — December 2008.*
+*Written on my first day exploring GitHub — December 2008.* OK
